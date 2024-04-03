@@ -1,0 +1,8 @@
+# We'll omit documents, workspaces, and more
+*.code-workspace
+*.pdf
+solution.html
+solution.css
+goal.png
+goal.jpg
+
